@@ -1,0 +1,16 @@
+{
+  "name": "fabiosakamoto-api",
+  "version": "2",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+   "dependencies": {
+     "body-parser": "~1.15.1",
+    "cors": "^2.8.4",
+    "express": "~4.13.4",
+    "micro": "latest",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}
+}
